@@ -1,0 +1,4 @@
+pygame~=1.9.6
+numpy~=1.18.4
+pyrr~=0.10.3
+Pillow~=7.1.2
