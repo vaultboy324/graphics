@@ -1,4 +1,4 @@
-import os
+﻿import os
 import random
 from pygame import *
 
@@ -47,7 +47,7 @@ void main()
     
     //Отверстие в торе
     if(inRad){
-        outColor = vec4(0.0, 0.0, 0.0, 1.0);
+        discard;
     } else {
         outColor = texel;
     }
